@@ -1,6 +1,8 @@
-# Team 61 - Indexing and Summarization of Sports Videos Using Multi-Modal Approach
+# Indexing and Summarization of Sports Videos Using Multi-Modal Approach
 
-This organisation contains all the repositories of our capstone project - **Indexing and Summarization of Sports Videos Using Multi-Modal Approach**
+This organisation contains all the repositories of our research project - **Indexing and Summarization of Sports Videos Using Multi-Modal Approach**
+
+This work was published at the 2025 12th International Conference on Emerging Trends in Engineering & Technology - Signal and Information Processing (ICETET - SIP). Read the complete paper [here](https://ieeexplore.ieee.org/document/11156673).
 
 This project was carried out from our 6th semester up till 8th semester at PES University.
 
